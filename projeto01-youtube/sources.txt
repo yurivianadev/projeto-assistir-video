@@ -1,0 +1,17 @@
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\app\AppGafanhoto.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\app\AppInteracao.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\app\AppVideo.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\conexao\Conexao.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\conexao\TesteConexao.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\dao\GafanhotoDAO.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\dao\VideoDAO.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\dao\VisualizacaoDAO.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\modelo\AcoesVideo.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\modelo\App.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\modelo\Gafanhoto.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\modelo\Pessoa.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\modelo\Video.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\modelo\Visualizacao.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\principal\ProgramaPrincipal.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\servico\VisualizacaoService.java
+C:\Users\yurif\OneDrive\Documentos\estudos\POO_Java\projeto01-youtube\src\br\com\yuri\projeto\visualizacao\InteracaoVisual.java
